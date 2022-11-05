@@ -1,2 +1,2 @@
-# Nuclear Throne Together skins.
-## NTM recoursepack that adds skins from NTT.
+# Nuclear Throne Together skins port.
+  Just a port.
